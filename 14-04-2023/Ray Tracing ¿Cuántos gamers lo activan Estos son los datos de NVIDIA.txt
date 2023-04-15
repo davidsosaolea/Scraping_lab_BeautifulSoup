@@ -1,0 +1,13 @@
+Ray Tracing: ¿Cuántos gamers lo activan? Estos son los datos de NVIDIA
+
+NVIDIA introdujo soporte para Ray Tracing con su serie RTX 20 en 2018. Así ha aumentado su adopción.
+
+Desde que NVIDIA introdujo el Ray Tracing en sus tarjetas de video de serie RTX 20 en 2018, esta tecnología ha ganado impulso.
+El Ray Tracing o trazado de rayos simula de manera natural los patrones de luz.
+Esta implementación requiere de núcleos especializados, que NVIDIA incluye en sus tarjetas RTX y que también han sido adoptados por AMD e Intel en sus productos en los últimos años.
+Muchos usuarios se pueden preguntar: ¿Cuántos gamers activan realmente Ray Tracing?
+En medio de la presentación de la RTX 4070, NVIDIA mostró datos sobre sus usuarios y qué tanto utilizan Ray Tracing.
+La adopción de Ray Tracing ha ido en crecimiento, según muestran los datos recabados en febrero de 2023.
+Ha pasado lo mismo con DLSS, la tecnología de supersampleo de NVIDIA, que utiliza los Tensor Cores de las tarjetas RTX.
+DLSS permite ganar cuadros por segundos en los juegos que tienen implementada esta tecnología. La serie RTX 40 implementa DLSS 3 y Frame Generation, una nueva tecnología.
+Cuando se develó en 2018, el Ray Tracing estaba implementado en tan solo cuatro juegos. En 2023, está implementado en 400 juegos y aplicaciones

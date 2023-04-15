@@ -1,0 +1,16 @@
+OpenAI asegura que no desarrollará GPT-5 “por algún tiempo”
+
+Todavía no está en desarrollo una versión mejorada de ChatGPT, aseguró el CEO de OpenAI.
+
+Sam Altman, director ejecutivo y cofundador de OpenAI, confirmó que su empresa no desarrollará "por algún tiempo" GPT-5, el presunto sucesor de su chatbot con inteligencia artificial (IA) GPT-4, después de que un grupo de empresarios del sector tecnológico -entre ellos Elon Musk- solicitaron en una carta de tono apocalíptico que se suspendan durante seis meses los sistemas de IA "más poderosos que GPT-4"
+Altman dijo que a la carta "le faltaban la mayoría de los matices técnicos sobre dónde necesitamos la pausa", durante una conferencia celebrada en el Instituto de Tecnología de Massachusetts (MIT), a la que asistió por videoconferencia.
+Asimismo, aseguró que su compañía no está trabajando en el desarrollo de un GPT-5 por lo que la misiva, que ya ha sido firmada por más de 25 mil, le pareció un poco "ridícula".
+Aunque coincidió con la idea de que OpenAI tiene que "moverse con precaución", ya que hay "un rigor cada vez mayor en cuestiones de seguridad" y eso es "realmente importante".
+"También estoy de acuerdo en que, a medida que las capacidades se vuelven más y más serias, el listón de seguridad debe aumentar", dijo Altman en el evento de la institución.
+OpenAI creó ChatGPT y luego GPT-4, un chatbot de IA que puede generar respuestas similares a las de un humano en cuestión de segundos, y Microsoft utiliza su tecnología en su chatbot Bing.
+No obstante, el hecho de que OpenAI no esté trabajando en GPT-5 no significa que no esté expandiendo las capacidades de GPT-4.
+Para los más preocupados por el rápido crecimiento de estas tecnologías con IA, el anuncio de Altman de que OpenAI no está desarrollando GPT-5 no es un consuelo, ya que la empresa está ampliando el potencial de GPT-4 conectándolo a internet, por ejemplo, y, además, podría lanzar un GPT-4.5, como hizo con GPT-3.5.
+Asimismo, OpenAI no es la única empresa que está trabajando en este tipo de herramientas.
+"La sociedad ha hecho una pausa en otras tecnologías con efectos potencialmente catastróficos en la sociedad. Podemos hacerlo aquí. Disfrutemos de una larga pausa veraniega de la IA y no nos apresuremos a caer sin estar preparados", pedía a finales de marzo la carta abierta publicada por el organismo sin ánimo de lucro Future of Life Institute.
+La carta fue firmada por Elon Musk, el cofundador de Apple Steve Wozniak y los investigadores estadounidenses Yoshua Bengio y Stuart Russel, entre muchos otros.
+EFE
