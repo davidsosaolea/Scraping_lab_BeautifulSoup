@@ -1,0 +1,16 @@
+Google está trabajando en un buscador impulsado por inteligencia artificial
+
+Magi es el nombre clave con el que se conoce este nuevo proyecto en Google. Buscará competir contra Microsoft y su renovado Bing.
+
+Google está trabajando en un motor de búsqueda que será impulsado completamente por inteligencia artificial.
+De acuerdo con The New York Times, este motor será “completamente nuevo” y lleva el nombre clave ‘Magi’ durante su primera etapa de desarrollo.
+El reporte señala que la compañía se encuentra en las primeras etapas de la creación de un servicio de búsqueda que intentará anticipar lo que desea de él con la esperanza de ofrecer "una experiencia mucho más personalizada".
+Tal como hay ahora con Bing de Microsoft, Google quiere que un chatbot acompañe las búsquedas del usuario, respondiéndole preguntas y hasta generando fragmentos de código.
+Según el diario, la empresa ha destinado más de 160 empleados al rediseño.
+Google está pensando anunciar Magi el próximo mes antes de presentar nuevas funciones adicionales. De momento, se sugiere que podría aparecer durante el I/O 2023.
+Magi busca tener funciones que permitan generar el interés de los usuarios.
+Una es ‘searchalong’, la cual permitiría que un chatbot escanee la página web que está leyendo para ofrecer información contextual.
+"GIFI" y "Tivoli Tutor", otro par de funciones experimentales, permitirían a los usuarios solicitar a Google Image Search que genere imágenes y conversar con un chatbot para aprender un nuevo idioma.
+“Llevamos años incorporando IA a la Búsqueda de Google no solo para mejorar drásticamente la calidad de nuestros resultados, sino también para introducir formas completamente nuevas de búsqueda, como Lens y multibúsqueda”, dijo un portavoz de Google a Engadget cuando se le preguntó sobre el informe.
+Según el informe, Samsung le dijo a Google que estaba pensando en convertir a Bing en su motor de búsquedas predeterminado. Esto puso en “pánico” a la compañía.
+Te recomendamos METADATA, el podcast de tecnología de RPP. Noticias, análisis, reseñas, recomendaciones y todo lo que debes saber sobre el mundo tecnológico.

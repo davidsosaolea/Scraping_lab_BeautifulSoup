@@ -1,0 +1,41 @@
+Las diferencias entre las respuestas de la inteligencia artificial de OpenAI, Microsoft y Google
+
+Bard, Bing y GPT-4 contestaron las mismas preguntas y ofrecieron diferentes respuestas. Algunas son más concisas que otras, pero aún presentan errores en su formulación.
+
+Los chatbots con inteligencia artificial (IA) pueden generar en cuestión de segundos respuestas similares a las que podría dar un ser humano sobre cualquier tema, los más populares por el momento son Bard de Google, Bing de Microsoft y ChatGPT de OpenAI.
+La agencia EFE compraró los tres modelos con una variedad de preguntas, acertijos y peticiones para ver la diferencia entre sus respuestas.
+Para este experimento, la cadena usa GPT-4, de OpenAI, al que se puede acceder pagando una suscripción de 20 dólares mensuales (OpenAI ofrece servicios gratuitos, como ChatGPT, pero es una tecnología inferior y el chatbot solo tiene acceso a internet hasta 2021(.
+También usa Bing de Microsoft, impulsado por la tecnología GPT-4 de OpenAI, y la primera versión experimental de Google, Bard, al que solo tienen acceso un selecto grupo de personas.
+Las tres herramientas tienen mensajes en los que advierten que sus respuestas pueden ser erróneas. "Tengo limitaciones y no siempre lo haré bien", dice el servicio de Google.
+GPT-4, además, recalca que su chatbot "No tiene la intención de dar consejos".
+Mientras que el mensaje de Bing dice que "es posible que se produzcan sorpresas y errores". "¡Asegúrese de verificar los hechos y compartir sus comentarios para que podamos aprender y mejorar!", añade.
+A la pregunta: "¿Te puedo preguntar cosas en español?", Bing y ChatGPT responden: "Sí".
+Mientras que Bard contesta en inglés que no podía "brindar asistencia con eso", ya que está "capacitado para comprender y responder solo a un subconjunto de idiomas en este momento", dando a entender que el español no es uno de esos idiomas.
+En tanto, las preguntas y respuestas de este experimento serán en español, en el caso de Bing y ChatGPT, y en inglés, en el caso de Bard.
+"Dame una receta vegetariana y barata", pregunta. GPT-4 recomienda "lentejas vegetarianas", Bing "arroz con lentejas y verduras" y Bard "revuelto de tofu".
+Los tres chatbots siguieron el mismo sistema, primero enumerar los ingredientes y luego dar las instrucciones de preparación.
+Tanto GPT-4 como Bard fueron un paso más lejos y dieron información adicional a la receta en sí.
+"Puedes adaptarla a tus preferencias añadiendo más verduras, especias o incluso añadirle espinacas o kale al final de la cocción para aumentar su contenido de nutrientes", comenta al final de su mensaje GPT-4.
+Mientras que Bard recalca al final de su mensaje que su receta es "una buena fuente de proteína y fibra".
+Microsoft y Google tienen sus propios buscadores y les beneficia redireccionar a los usuarios a otras webs.
+Al final de cada respuesta de Bard hay un botón que dice: "Búscalo en Google", mientras que en Bing hay una etiqueta que dice "aprenda más", donde da una lista de links.
+En este caso de la receta, la herramienta de Microsoft da enlaces a: recetasderechupete.com, tendencias.com, kiwilimon.com y clara.es.
+Por su parte, OpenAI no da ningún link externo u opción de conocer la fuente de la información.
+La siguiente prueba es una pregunta de un examen de Literatura y Cultura Española de Colocación Avanzada (AP) -exámenes que los estudiantes de secundaria estadounidense pueden hacer para conseguir créditos universitarios-.
+A los tres chatbots se les da un fragmento de un texto y se les pide identificar el autor, así como explicar "el desarrollo del tema de la relación entre el tiempo y el espacio dentro de la obra a la que pertenece".
+A los alumnos se les recomienda usar 15 minutos para responder a esta respuesta, pero los chatbots dan la su réplica en menos de un minuto.
+Según la filóloga, profesora de español y estudios sociales en EE. UU. Ana García Alonso, la única respuesta que aprobaría es la de Bard, pero como esta fue en inglés y no en español, la tendría que suspender también.
+En su respuesta en inglés de 355 palabras, la herramienta de Google reconoce que el fragmento de "Mi caballo mago" fue escrito por Sabine R. Ulibarrí y luego analiza el texto en varios párrafos.
+"Está muy bien, pero carece de sensibilidad lectora, no capta los mecanismos que crean la belleza, el arte y la sensibilidad literaria", anota García Alonso.
+La respuesta de Bing es la más corta con 123 palabras. Este chat también identifica el autor, dice que el texto "es considerada una de las obras más importantes de la literatura chicana" y explica el resto en un párrafo.
+"Es muy escueto y le falta análisis", anota la filóloga, quien añade que no aprobaría el ejercicio de este chat.
+OpenAI dio la respuesta más larga, 360 palabras, pero fue la peor respuesta, según García Alonso.
+Pese a que en la pregunta se señala que el texto se titula "Mi caballo mago", GPT-4 responde que el fragmento pertenece al cuento "El Sur" del autor argentino Jorge Luis Borges.
+"¿Qué día del año hablan menos los charlatanes?", se pregunta a los chats con IA, sin especificar que se trata de un acertijo.
+Bing es el único que resuelve la adivinanza: "Es aquel día en donde se adelanta la hora en primavera".
+Mientras que Bard y Chat-4 dicen que no existe un día específico y ofrecen información adicional sobre los charlatanes.
+En la última prueba se pide a los chats que escriban el último párrafo (máximo de 40 palabras) para este artículo, pero todas las respuestas fueron más largas, por lo que han sido editadas.
+"En última instancia, el éxito de cada empresa dependerá de su capacidad para innovar y adaptarse a medida que evoluciona el campo de la IA", responde Bing.
+"En conclusión, ChatGPT de OpenAI es conocido por su capacidad para generar texto creativo y atractivo, mientras que 365 Copilot de Microsoft -del que forma parte Bing- está diseñado para ser más útil y productivo. Bard de Google aún está en desarrollo, pero tiene el potencial de ser la respuesta de IA más completa e informativa de todas", anota Bard.
+"En conclusión, para aprovechar al máximo estas herramientas, es esencial comprender sus particularidades y seleccionar la más adecuada según las necesidades específicas del usuario", concluye GPT-4. EFE
+Te recomendamos METADATA, el podcast de tecnología de RPP. Noticias, análisis, reseñas, recomendaciones y todo lo que debes saber sobre el mundo tecnológico.
